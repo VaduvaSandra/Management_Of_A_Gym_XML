@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Membri xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Membru>
+    <Nume>Georgescu</Nume>
+    <Prenume>Marian</Prenume>
+    <Telefon>0782348791</Telefon>
+    <Tip>Yoga</Tip>
+    <Valabilitate>3 luni</Valabilitate>
+    <DataInscriere>2023-04-01T00:00:00</DataInscriere>
+  </Membru>
+  <Membru>
+    <Nume>Vaduva</Nume>
+    <Prenume>Sandra</Prenume>
+    <Telefon>0749234152</Telefon>
+    <Tip>Fitness</Tip>
+    <Valabilitate>3 luni</Valabilitate>
+    <DataInscriere>2023-04-05T00:00:00</DataInscriere>
+  </Membru>
+  <Membru>
+    <Nume>Cremeneanu</Nume>
+    <Prenume>Alexandra</Prenume>
+    <Telefon>0732813473</Telefon>
+    <Tip>Yoga</Tip>
+    <Valabilitate>3 luni</Valabilitate>
+    <DataInscriere>2023-04-27T00:00:00</DataInscriere>
+  </Membru>
+  <Membru>
+    <Nume>Popescu</Nume>
+    <Prenume>Valentin</Prenume>
+    <Telefon>0477823422</Telefon>
+    <Tip>Yoga</Tip>
+    <Valabilitate>3 luni</Valabilitate>
+    <DataInscriere>2023-05-03T00:00:00</DataInscriere>
+  </Membru>
+</Membri>

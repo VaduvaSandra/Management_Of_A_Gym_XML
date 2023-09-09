@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEchipamente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Echipament>
+    <Nume>Presa</Nume>
+    <Descriere>Aparat nou</Descriere>
+    <Grupa>Picioare</Grupa>
+  </Echipament>
+  <Echipament>
+    <Nume>ATX Glute Ham Trainer</Nume>
+    <Descriere>Aparat Fitness pentru fesieri</Descriere>
+    <Grupa>Fesieri</Grupa>
+  </Echipament>
+  <Echipament>
+    <Nume>Aparat ATX Fitness</Nume>
+    <Descriere>Aparat fitness pentru genoflexiuni si gambe</Descriere>
+    <Grupa>Gambe</Grupa>
+  </Echipament>
+</ArrayOfEchipamente>

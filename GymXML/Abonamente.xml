@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfAbonament xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Abonament>
+    <Nume>Georgescu</Nume>
+    <TipAbonament>Yoga</TipAbonament>
+    <Valabilitate>3 luni</Valabilitate>
+    <Pret>250</Pret>
+  </Abonament>
+  <Abonament>
+    <Nume>Vaduva</Nume>
+    <TipAbonament>Fitness</TipAbonament>
+    <Valabilitate>3 luni</Valabilitate>
+    <Pret>200</Pret>
+  </Abonament>
+  <Abonament>
+    <Nume>Cremeneanu</Nume>
+    <TipAbonament>Yoga</TipAbonament>
+    <Valabilitate>3 luni</Valabilitate>
+    <Pret>250</Pret>
+  </Abonament>
+  <Abonament>
+    <Nume>Popescu</Nume>
+    <TipAbonament>Yoga</TipAbonament>
+    <Valabilitate>3 luni</Valabilitate>
+    <Pret>250</Pret>
+  </Abonament>
+</ArrayOfAbonament>

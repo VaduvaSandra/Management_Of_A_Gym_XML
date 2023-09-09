@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Antrenori>
+  <Antrenor>
+    <Nume>Rece</Nume>
+    <Prenume>Marius</Prenume>
+    <Categorie>Kickbox</Categorie>
+    <Perioada>Seara(18:00-23:00)</Perioada>
+  </Antrenor>
+  <Antrenor>
+    <Nume>Truica</Nume>
+    <Prenume>Mariana</Prenume>
+    <Categorie>Yoga</Categorie>
+    <Perioada>Dimineata(08:00-12:00)</Perioada>
+  </Antrenor>
+  <Antrenor>
+    <Nume>Popa</Nume>
+    <Prenume>Alexandru</Prenume>
+    <Categorie>Kickbox</Categorie>
+    <Perioada>Dupa-amiaza(12:00-18:00)</Perioada>
+  </Antrenor>
+  <Antrenor>
+    <Nume>Drecea</Nume>
+    <Prenume>Marius</Prenume>
+    <Categorie>Kickbox</Categorie>
+    <Perioada>Seara(18:00-23:00)</Perioada>
+  </Antrenor>
+  <Antrenor>
+    <Nume>Eusebiu</Nume>
+    <Prenume>Marcel</Prenume>
+    <Categorie>Yoga</Categorie>
+    <Perioada>Dupa-amiaza(12:00-18:00)</Perioada>
+  </Antrenor>
+</Antrenori>
